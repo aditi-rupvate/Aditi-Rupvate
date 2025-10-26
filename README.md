@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Aditi-Rupvate
 - 👀 I’m interested in Data Science
-- 💞️ I’m looking to collaborate on Research Paper in Data Science in HealthCare and Finance
 - 📫 How to reach me aditisem6@gamil.com
 - 😄 Pronouns: She\Her
 - ⚡ Fun fact: I like chess
