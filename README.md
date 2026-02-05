@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amy-Rupvate
 - 👀 I’m interested in Data Science
-- 📫 How to reach me aditisem6@gamil.com
+- 📫 How to reach me amy.careermail@gmail.com
 - 😄 Pronouns: She\Her
 - ⚡ Fun fact: I like chess
 
