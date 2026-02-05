@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aditi-Rupvate
+- 👋 Hi, I’m @Amy-Rupvate
 - 👀 I’m interested in Data Science
 - 📫 How to reach me aditisem6@gamil.com
 - 😄 Pronouns: She\Her
