@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditi
 - 👀 I’m interested in Data Science
-- 📫 How to reach me amy.careermail@gmail.com
+- 📫 How to reach me aditirupvate0505@gmail.com
 - 😄 Pronouns: She\Her
 - ⚡ Fun fact: I like chess
 
