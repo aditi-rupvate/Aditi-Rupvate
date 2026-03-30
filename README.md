@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amy-Rupvate
+- 👋 Hi, I’m Aditi
 - 👀 I’m interested in Data Science
 - 📫 How to reach me amy.careermail@gmail.com
 - 😄 Pronouns: She\Her
