@@ -6,7 +6,9 @@ Python · SQL · Power BI · scikit-learn · XGBoost · NLP · RAG · LLMs
 
 Projects: 
  · Apple Stock Prediction 
+ 
  · Ophtha Bot (RAG Chatbot) 
+ 
  · Parkinson's Detection
 <!---
 Aditi-Rupvate/Aditi-Rupvate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
