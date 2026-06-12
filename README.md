@@ -5,6 +5,7 @@ I build end-to-end data projects — from raw data to dashboards. Based in Londo
 Python · SQL · Power BI · scikit-learn · XGBoost · NLP · RAG · LLMs
 
 Projects: 
+
  · Apple Stock Prediction 
  
  · Ophtha Bot (RAG Chatbot) 
